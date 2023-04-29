@@ -1,0 +1,100 @@
+.menu {
+  margin-bottom: 40px;
+}
+
+.menu h3 {
+  font-size: 2em;
+  color: #D9A250;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.simple-desc {
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+  line-height: 1.8em;
+  color: #999;
+}
+
+.menu-grd {
+  box-shadow: 0px 2px 23px -8px #B8B6B6;
+  height: 500px;
+  padding: 30px;
+  position: relative;
+  transition: .5s all;
+  -webkit-transition: .5s all;
+}
+
+.menu-grd-pos {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 40%;
+  height: 33%;
+  border-radius: 85%;
+  background: rgba(233, 140, 78, 0.45);
+  opacity: 0;
+  transition: all 0.5s;
+}
+
+.menu-grd-pos p {
+  font-size: 45px;
+  color: #fff;
+  margin: 0;
+  padding: 15px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.menu-grd:hover div.menu-grd-pos {
+  opacity: 1;
+}
+
+.dinner {
+  background: url(../../images/15.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  min-height: 500px;
+  margin: 5em 0;
+}
+
+.dinner-info {
+  padding: 64px 0 0 640px;
+}
+
+.dinner-info h3 {
+  font-size: 35px !important;
+  color: #fff;
+  margin: 0;
+  text-align: left;
+}
+
+.dinner-info-grid {
+  margin-top: 30px;
+}
+
+.dinner-info-grid h4 {
+  text-transform: capitalize;
+  font-size: 20px;
+  color: #803F5F;
+  margin: 0;
+}
+
+.dinner-info-grid p {
+  color: #E9E9E9;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 16px 0 0;
+  width: 70%;
+}
+
+.dinner-info-grid p span {
+  display: block;
+  margin: 16px 0 0;
+  font-size: 30px;
+  color: #fff;
+}

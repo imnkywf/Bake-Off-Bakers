@@ -15,7 +15,9 @@ export default function Home() {
       <div className="banner-bottom">
         <div className="container">
           <h3>Welcome To Our Bakery !</h3>
-          <p className="simple-desc">At our bakery, we are passionate about creating delicious treats that everyone can enjoy. Our baked goods are made with only the finest ingredients, and we take pride in offering a wide variety of options to satisfy any taste.</p>
+          <p className="simple-desc">At our bakery, we are passionate about creating delicious treats that
+            everyone can enjoy. Our baked goods are made with only the finest ingredients, and we take pride in
+            offering a wide variety of options to satisfy any taste.</p>
           <div className="banner-bottom-grid">
             <img src={banner} alt=" " className="img-responsive" />
             <p>We're proud to offer a wide range of freshly baked goods to satisfy your sweet tooth.
@@ -24,6 +26,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+
       {/* Welcome block */}
       <div className="welcome">
         <div className="container">
