@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import './index.css'
 
 export default function About() {
   return (
-    <div>About</div>
+    <Fragment>About</Fragment>
   )
 }

@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
 export default function Contact() {
   return (
-    <div>Contact</div>
+    <Fragment>Contact</Fragment>
   )
 }
