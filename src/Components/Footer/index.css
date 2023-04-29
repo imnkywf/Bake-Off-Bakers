@@ -1,0 +1,81 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+.footer {
+  padding: 64px 0;
+  background-color: #4B4B4B;
+}
+
+.get_in_touch h3,
+.ftr_navi h3 {
+  font-size: 20px;
+  margin: 10px 0 30px;
+  color: #fff;
+}
+
+.ftr_navi ul {
+  margin-top: -20px;
+}
+
+.ftr_navi ul li a {
+  display: block;
+  padding: 5px 0;
+  color: #848484;
+  font-size: 14px;
+}
+
+.get_in_touch p {
+  color: #848484;
+  font-size: 14px;
+}
+
+.ftr-logo a h3 {
+  font-size: 32px;
+  color: #fff;
+  margin: 6px 0 0;
+}
+
+.ftr-logo a h3 span {
+  font-size: 15px;
+}
+
+.ftr-logo ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+ul li a.facebook {
+  background: url(../../images/img-sp.png) no-repeat -8px -13px;
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+ul li a.twitter {
+  background: url(../../images/img-sp.png) no-repeat -8px -58px;
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+ul li a.google {
+  background: url(../../images/img-sp.png) no-repeat -8px -104px;
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+ul li a.linkedIn {
+  background: url(../../images/img-sp.png) no-repeat -8px -153px;
+  display: block;
+  width: 32px;
+  height: 32px;
+}
