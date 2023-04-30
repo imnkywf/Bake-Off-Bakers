@@ -1,7 +1,8 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, Suspense } from 'react'
 import { NavLink, useRoutes } from 'react-router-dom'
 import './index.css'
 import Routes from '../../Components/Routes'
+import Loading from '../Loading'
 export default function Header() {
   const routes = useRoutes(Routes)
   return (
@@ -37,7 +38,10 @@ export default function Header() {
       </div>
 
       <div className='content'>
-        {routes}
+        <Suspense fallback={<Loading />}>
+          {routes}
+        </Suspense>
+
       </div>
     </Fragment >
   )

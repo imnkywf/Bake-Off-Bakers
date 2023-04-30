@@ -1,8 +1,10 @@
+import { lazy } from 'react'
 import { Navigate } from 'react-router-dom'
-import Home from '../../Pages/Home'
-import Contact from '../../Pages/Contact'
-import About from '../../Pages/About'
-import Menu from '../../Pages/Menu'
+
+const Home = lazy(() => import('../../Pages/Home'));
+const Contact = lazy(() => import('../../Pages/Contact'));
+const About = lazy(() => import('../../Pages/About'));
+const Menu = lazy(() => import('../../Pages/Menu'));
 
 
 const routes = [{
