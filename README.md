@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Weather Forecast App
+"Bake Off Bakers" is a visually stunning static commercial website created with React and React Router, featuring a curated collection of talented bakers and their delectable creations, providing users with an immersive platform to explore their specialties and place orders.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Techniques Used
+• Html/css.
+• React.js Framework.
+• React-Router.
+• Bootstrap
 
-## Available Scripts
+## Installation
+To run the Mobile Weather Forecast App locally, follow these steps:
+### 1. Clone this repository:
+git clone git@github.com:imnkywf/bake-off-bakers.git
 
-In the project directory, you can run:
+### 2. Navigate to the directory:
+cd bake-off-bakers
 
-### `npm start`
+### 3. Install all the dependencies:
+npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 4. Replace with your own key and start:
+npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Pages
+### 1. Home: 
+The Home page serves as the central hub, providing an engaging and comprehensive overview of the company's offerings, including a showcase of its talented staff members.
 
-### `npm test`
+### 2. Menu:
+The Menu page is designed to captivate visitors with an enticing display of the latest and trending products, allowing them to explore and select from a wide range of options.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. About Us:
+The About page delves deeper into the company's story, values, and mission, giving users a glimpse into its background and establishing a sense of trust and credibility.
 
-### `npm run build`
+### 4. Contact Us:
+The Contact Us page serves as a convenient point of contact for customers, featuring the company's contact information, including phone numbers, email addresses, and a user-friendly map to assist visitors in finding the physical location.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Preview
+Home
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Menu
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contact Us
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
