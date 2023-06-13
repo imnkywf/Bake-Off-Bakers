@@ -18,7 +18,7 @@ cd bake-off-bakers
 ### 3. Install all the dependencies:
 npm install
 
-### 4. Replace with your own key and start:
+### 4. Start and run on server:
 npm start
 
 ## Pages
