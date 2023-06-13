@@ -8,7 +8,7 @@
 • Bootstrap
 
 ## Installation
-To run the Mobile Weather Forecast App locally, follow these steps:
+To run Bake-off-Bakers locally, follow these steps:
 ### 1. Clone this repository:
 git clone git@github.com:imnkywf/bake-off-bakers.git
 
