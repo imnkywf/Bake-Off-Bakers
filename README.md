@@ -1,4 +1,4 @@
-# Weather Forecast App
+# Bake off Bakers
 "Bake Off Bakers" is a visually stunning static commercial website created with React and React Router, featuring a curated collection of talented bakers and their delectable creations, providing users with an immersive platform to explore their specialties and place orders.
 
 ## Techniques Used
