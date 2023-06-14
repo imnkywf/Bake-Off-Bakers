@@ -38,11 +38,16 @@ The Contact Us page serves as a convenient point of contact for customers, featu
 
 
 ### Preview
+
+![Alt text](https://github.com/imnkywf/bake-off-bakers/blob/main/Screen%20Shots/Picture%201.png "image demo")
 Home
 
+![Alt text](https://github.com/imnkywf/bake-off-bakers/blob/main/Screen%20Shots/Picture%203.png "image demo")
 Menu
 
+![Alt text](https://github.com/imnkywf/bake-off-bakers/blob/main/Screen%20Shots/Picture%202.png "image demo")
 Contact Us
+
 
 
 
